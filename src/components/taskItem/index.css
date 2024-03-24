@@ -1,0 +1,16 @@
+.task-item {
+  padding: 4px;
+  margin-bottom: 10px;
+  border-radius: 4px;
+  background-color: gray;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.tag {
+  background-color: yellow;
+  color: black;
+  padding: 4px;
+  border-radius: 8px;
+}
